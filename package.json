@@ -1,7 +1,7 @@
 {
   "name": "random-messages-z",
   "version": "1.0.0",
-  "description": "Random de mensajes",
+  "description": "2021 Random Message NPM Package",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
