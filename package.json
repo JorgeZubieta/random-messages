@@ -17,8 +17,8 @@
   ],
   "author": "Jorge Zubieta <zubietajor@gmail.com>",
   "license": "MIT",
-  "bin":{
-    "random-msg:": "./bin/global.js"
+  "bin": {
+    "random-msg": "bin/global.js"
   },
   "preferGlobal": true,
   "bugs": {
